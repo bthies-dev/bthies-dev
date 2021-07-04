@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luckycoconut-dev
+- 👋 Hi, I’m @bthies-dev
 - 👀 I’m interested in all development environments and automation for all environments.
 - 🌱 I’m currently learning c# and Ignition PLC programming
 - 💞️ I’m looking to collaborate on anything that can further automate anything!
